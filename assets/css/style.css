@@ -1,0 +1,15 @@
+ /* CSS Document */
+td {
+    padding-right: 10px;
+}
+td button {
+  display: flex;
+  align-items: center;
+}
+tr:nth-child(even) {
+    background-color: lightgray;
+}
+
+table {
+	border-spacing: 0;
+}
